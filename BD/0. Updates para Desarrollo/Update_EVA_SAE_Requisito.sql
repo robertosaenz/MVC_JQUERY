@@ -1,0 +1,1 @@
+UPDATE EVA_SAE_Requisito SET EsLimitado=1, ValorPeriodo=7 WHERE IdRequisito=18

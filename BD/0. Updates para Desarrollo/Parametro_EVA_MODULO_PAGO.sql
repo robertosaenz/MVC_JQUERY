@@ -1,0 +1,1 @@
+update  Parametro set Activo=1 where Nombre='EVA_MODULO_PAGO'

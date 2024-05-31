@@ -1,0 +1,6 @@
+--CREATE TYPE EVA_SAE_Tramite_UnidadAcademicaTemp AS TABLE
+--(
+--	IdTramite int,
+--	IdUsuario int,
+--	IdUnidadesAcademicas int
+--)
